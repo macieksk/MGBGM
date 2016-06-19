@@ -1,2 +1,2 @@
-# MGMF
-R package MGMF: Mixture Gaussian Markov Fields
+# MGBGM
+R package MGBGM: Mixture Gaussian Bayesian Graphical Model
